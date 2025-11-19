@@ -6,4 +6,6 @@ Features: Log exercises, sets, reps, and weights. Track warm-ups and workout dur
 
 Tech Stack: HTML, CSS, JavaScript
 
-Try it:
+Try it: https://nekelmitchell.github.io/super-saiyan-gym-tracker/
+
+![Screenshot](https://github.com/user-attachments/assets/4e8e2dd3-87a9-4de3-83f2-eb11d93bff59)
